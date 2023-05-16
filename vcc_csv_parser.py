@@ -2,7 +2,7 @@ import csv
 import time
 import os
 
-# pyinstaller --onefile main.py --specpath EXE\ --distpath EXE/dist --workpath EXE/build
+# pyinstaller --onefile vcc_csv_parser.py --specpath EXE\ --distpath .\ --workpath EXE/build
 
 def folder_exists():
     path = '.\Output'
