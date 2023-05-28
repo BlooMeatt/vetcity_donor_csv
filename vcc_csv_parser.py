@@ -117,6 +117,12 @@ for file in files:
                                     <li>{line["pet_age"]}</li>
                                 </ul>
                             </li>
+                            <li>
+                                <b>Вес</b>
+                                <ul>
+                                    <li>{line["ves_pitomtsa"]}</li>
+                                </ul>
+                            </li>
                         </ol>
                     </ul>
                     <p>Анамнез</p>
